@@ -1,6 +1,6 @@
 # EE-533---Lab-1
-**
-Client-Server Communication using TCP Sockets**
+
+Client-Server Communication using TCP Sockets
 
 This repository contains the source code for Lab 1 of EE 533.
 
